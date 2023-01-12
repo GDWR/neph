@@ -18,5 +18,5 @@ Prerequisites:
 Run development application
 ```shell
 yarn install
-yarn run dev tauri
+yarn run tauri dev
 ```
